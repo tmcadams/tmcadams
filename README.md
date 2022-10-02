@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on studying for the AZ-400
+- 🌱 I’m currently learning DevOps, Cloud Infrastructure and Containers
+- 📫 How to reach me: www.linkedin.com/in/travismcadams
+- ⚡ Fun fact: I once played in a pop up band during an Agile/Scrum conference
+
 <!--
 **tmcadams/tmcadams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

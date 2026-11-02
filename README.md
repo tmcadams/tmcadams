@@ -27,9 +27,10 @@ Senior Network Engineer and Cloud Administrator with 15+ years of experience bri
 
 ---
 
-### 🚀 Projects & Development
+### 🚀 Projects & Open Source
 
-* **[WakeUpNinja](https://holycube.com):** Native Android alarm and motivation application deployed on Google Play. Built using the Android SDK for exact background execution and OS-level alarm management, backed by a custom public Quote API.
+* **[Citrix ADC Responder Policies for PHP2Shell](https://github.com/tmcadams/Citrix-ADC-responder-policies-for-PHP2Shell):** Production-ready NetScaler/Citrix ADC responder policies designed to block active exploit vectors targeting the PHP2Shell zero-day.
+* **WakeUpNinja (Native Android App):** Native Android alarm and motivation application deployed on Google Play [Live on holycube.com](https://holycube.com). Built with Kotlin and the Android SDK for precise background execution and OS-level alarm handling, backed by a custom public Quote API.
 * **[HolyCube.com](https://holycube.com):** Personal portfolio and interactive online resume platform.
 * **Utility Applications:** Custom-built developer and administration web utilities including a GPS Converter, NTP Time Check, and EMR tooling.
 

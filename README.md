@@ -30,7 +30,7 @@ Senior Network Engineer and Cloud Administrator with 15+ years of experience bri
 ### 🚀 Projects & Development
 
 * **[WakeUpNinja](https://holycube.com):** Native Android alarm and motivation application deployed on Google Play. Built using the Android SDK for exact background execution and OS-level alarm management, backed by a custom public Quote API.
-* **[HolyCube.com](https://holycube.com):** Personal portfolio and interactive online resume platform[cite: 1, 2].
+* **[HolyCube.com](https://holycube.com):** Personal portfolio and interactive online resume platform.
 * **Utility Applications:** Custom-built developer and administration web utilities including a GPS Converter, NTP Time Check, and EMR tooling.
 
 ---

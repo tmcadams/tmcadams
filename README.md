@@ -1,19 +1,45 @@
-# Hi there, I'm Travis McAdams 👋
+# Hi, I'm Travis McAdams 👋
 
-## ☁️ Senior Network Engineer & Cloud Administrator
-I am an AWS and Azure-certified professional with over 10 years of experience bridging the gap between traditional networking and modern cloud architecture.
+Senior Network Engineer and Cloud Administrator with 15+ years of experience bridging the gap between traditional enterprise networking, hybrid virtualization, and modern cloud architecture. Specializing in CJIS/GovRAMP and SOC 2 Type II compliance, high-availability virtualization, and zero-trust security[cite: 1].
 
-### 🚀 Projects & Portfolio
-* **[WakeUpNinja.com](http://wakeupninja.com)**: A dynamic motivational quote engine developed using **PHP**, **JavaScript**, and **JSON** with a public-facing API.
-* **[HolyCube.com](http://holycube.com)**: My professional portfolio and digital resume.
+[![Website](https://img.shields.io/badge/Website-holycube.com-blue?style=flat-square&logo=googlechrome)](https://holycube.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-travismcadams-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/travismcadams)
+[![AWS Certified](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazonwebservices)](https://aws.amazon.com)
+[![Azure Certified](https://img.shields.io/badge/Azure-Administrator%20Associate-0089D6?style=flat-square&logo=microsoftazure)](https://learn.microsoft.com)
 
-### 📜 Certifications
-* **AWS:** Certified Solutions Architect – Associate
-* **Microsoft:** Azure Administrator Associate & M365 Fundamentals
-* **Global Tech Council:** Certified Google Gemini Professional
-* **CompTIA:** Network+ & A+
+---
 
-### 📫 How to reach me
-* **LinkedIn:** [linkedin.com/in/travismcadams](https://www.linkedin.com/in/travismcadams/)
-* **Email:** tmcadams@holycube.com
-* **Location:** Covington, LA
+### 🛠️ Technical Stack & Tooling
+
+* **Cloud & DevOps:** Azure (Government & Commercial), AWS, Docker, Jenkins[cite: 1]
+* **Networking & Perimeter:** Citrix ADC (NetScaler), Cisco ASA/Firepower, Meraki MX, Cisco Nexus, Azure Application Gateway, Cloudflare Zero Trust, S2S & SSL VPNs, VoIP/SIP[cite: 1]
+* **Systems & Virtualization:** XCP-ng, VMware ESXi/vSphere, Windows Server, Linux (RHEL/Rocky), Active Directory, HPE Nimble/Alletra, ExaGrid, Cisco UCS, IBM iSeries[cite: 1]
+* **Security & Compliance:** SOC 2 Type II, CJIS, GovRAMP, HIPAA, PCI DSS, Tenable Nessus, Graylog SIEM, Huntress EDR, MFA / Entra ID, Auth0, AppLocker, SAML/SSO[cite: 1]
+
+---
+
+### 🛡️ Selected Engineering Highlights
+
+* **Virtualization & DR Modernization:** Executed a live, zero-data-loss migration from VMware to XCP-ng with HA clustering, enterprise iSCSI storage, and CJIS-aligned ExaGrid disaster recovery[cite: 1].
+* **Zero Trust & Gov Cloud:** Deployed Zero Trust Network Access (ZTNA) replacing legacy SSL VPNs across Azure Government tenants with Citrix ADC multi-site load balancing[cite: 1].
+* **Cost Optimization & Consolidation:** Achieved up to 90% IT operational cost reduction through enterprise VoIP cutovers and M365 license optimizations.
+* **Rapid Incident Mitigation:** Designed and enforced network segmentation within 48 hours during an escalated zero-day advisory (php2shell) to neutralize production vulnerability exposure[cite: 1].
+
+---
+
+### 🚀 Projects & Development
+
+* **[WakeUpNinja](https://holycube.com):** Native Android alarm and motivation application deployed on Google Play. Built using the Android SDK for exact background execution and OS-level alarm management, backed by a custom public Quote API.
+* **[HolyCube.com](https://holycube.com):** Personal portfolio and interactive online resume platform[cite: 1, 2].
+* **Utility Applications:** Custom-built developer and administration web utilities including a GPS Converter, NTP Time Check, and EMR tooling[cite: 2].
+
+---
+
+### 📜 Certifications & Education
+
+* **AWS Certified Solutions Architect – Associate**[cite: 2]
+* **Microsoft Certified: Azure Administrator Associate**[cite: 2]
+* **Microsoft 365 Certified: Fundamentals**[cite: 2]
+* **CompTIA Network+ & CompTIA A+**[cite: 2]
+* **Global Tech Council: Certified Google Gemini Professional**[cite: 2]
+* **B.S. in Computer Science** — Southeastern Louisiana University (2014)[cite: 2]
